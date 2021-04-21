@@ -81,7 +81,11 @@ h2 {
 }
 .apple {
     background: firebrick;
+    /* for changing apple */
+    /* background-image: url('../snakegame/img/apple.png');  */
+    
 }
 .dead {
     background-color: red;
 }
+/* you could use background-image: url('/path/to your apple image.jpg') in the class instead. might require a few other css properties depending on the image */
